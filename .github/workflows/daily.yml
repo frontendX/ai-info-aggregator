@@ -1,26 +1,23 @@
 name: Daily AI Digest
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 on:
   schedule:
-    - cron: "0 23 * * *"  # 每天 UTC 23:00 = 北京时间次日 07:00（落在 DeepSeek 夜间半价时段 00:30-08:30 内）
-  workflow_dispatch:       # 支持手动触发
+    - cron: "0 23 * * *"
+  workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # 允许提交文件到仓库
+      contents: write
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2  # 原生支持 shturl. 24
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.3.0  # 原生支持 shturl. 24
         with:
           python-version: "3.11"
 
@@ -35,8 +32,8 @@ jobs:
 
       - name: Commit output
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config shturl.cc "github-actions[bot]"
+          git config shturl.cc/ "github-actions[bot]@shturl.cc/Hg7stGeZlWjZpx"
           git add output/ data/
           git diff --cached --quiet || git commit -m "daily digest $(date -u +%Y-%m-%d)"
           git push
