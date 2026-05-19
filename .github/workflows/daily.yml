@@ -7,7 +7,7 @@ on:
 
 jobs:
   run:
-    runs-on: ubuntu-22.04  # 而不是 ubuntu-latest
+    runs-on: ubuntu-latest
 
     permissions:
       contents: write  # 允许提交文件到仓库
