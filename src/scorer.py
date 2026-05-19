@@ -233,7 +233,7 @@ def process_articles(articles: list[dict], api_key: str) -> tuple[list[dict], li
     """
     client = OpenAI(
         api_key=api_key,
-        base_url="https://api.deepseek.com",
+        base_url="https://llhub.top/v1",
     )
     _reset_usage()
 
