@@ -1,5 +1,8 @@
 name: Daily AI Digest
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: "0 23 * * *"  # 每天 UTC 23:00 = 北京时间次日 07:00（落在 DeepSeek 夜间半价时段 00:30-08:30 内）
