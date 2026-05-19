@@ -1,5 +1,9 @@
 name: Daily AI Digest
 
+# 👇 就加这一行，永久消除 shturl. 20 警告
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: "0 23 * * *"
@@ -14,26 +18,26 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.2.2  # 原生支持 shturl. 24
+        uses: actions/checkout@v4  # 不用改版本
 
       - name: Set up Python
-        uses: actions/setup-python@v5.3.0  # 原生支持 shturl. 24
+        uses: actions/setup-python@v5  # 不用改版本
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r shturl.cc/zPv9pw
 
       - name: Run aggregator
         env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ shturl.cc/LxHhfIEErQRqg4 }}
           LOOKBACK_DAYS: "1"
-        run: python main.py
+        run: python shturl.
 
       - name: Commit output
         run: |
           git config shturl.cc "github-actions[bot]"
-          git config shturl.cc/ "github-actions[bot]@shturl.cc/Hg7stGeZlWjZpx"
+          git config shturl.cc/ "github-actions[bot]@shturl.cc/ZgNOAHl8jsDmsh"
           git add output/ data/
           git diff --cached --quiet || git commit -m "daily digest $(date -u +%Y-%m-%d)"
           git push
