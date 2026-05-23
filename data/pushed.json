@@ -6347,6 +6347,390 @@
       "pushed_at": "2026-05-21",
       "title": "truelockmc/streambert",
       "score": 4
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+      "pushed_at": "2026-05-22",
+      "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/",
+      "pushed_at": "2026-05-22",
+      "title": "DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkzk9e/qwen36_27b_pure_quant_40_toks_on_16_gb_vram/",
+      "pushed_at": "2026-05-22",
+      "title": "Qwen3.6 27B Pure Quant: 40 tok/s on 16 GB VRAM",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tknbzh/experts_first_llamacpp/",
+      "pushed_at": "2026-05-22",
+      "title": "Experts first llama.cpp",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkw1su/blackwell_and_pdl_performance_increase/",
+      "pushed_at": "2026-05-22",
+      "title": "Blackwell and PDL performance increase",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkmjmq/i_ran_a_quantization_shootout_on_qwen3coder_and/",
+      "pushed_at": "2026-05-22",
+      "title": "I ran a quantization shootout on Qwen3-Coder and the results are... interesting",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkqal0/how_small_can_the_orchestration_model_in_an_agent/",
+      "pushed_at": "2026-05-22",
+      "title": "How small can the orchestration model in an agent be? (separating it from code-gen — that obviously wants a big model)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkoeuo/trained_a_prompt_injection_detector_using/",
+      "pushed_at": "2026-05-22",
+      "title": "trained a prompt injection detector using ml-intern and DeepSeek v4 Flash, runs in the browser",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "pushed_at": "2026-05-22",
+      "title": "teng-lin/notebooklm-py",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/antoinezambelli/forge",
+      "pushed_at": "2026-05-22",
+      "title": "antoinezambelli/forge",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkya00/built_a_playwright_version_that_lets_aiagents/",
+      "pushed_at": "2026-05-22",
+      "title": "Built a Playwright version that lets AI-Agents navigate the web",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkoib5/shipped_my_first_solo_ios_app_today_mirror/",
+      "pushed_at": "2026-05-22",
+      "title": "Shipped my first solo IOS app today! Mirror Fitness, on-device form coach. AMA on the build",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkv74b/i_built_a_tool_where_ai_agents_argue_with_each/",
+      "pushed_at": "2026-05-22",
+      "title": "I built a tool where AI agents argue with each other. You pick who’s in the room.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tkojtq/i_tested_the_same_ai_product_on_a_website_vs_in/",
+      "pushed_at": "2026-05-22",
+      "title": "i tested the same AI product on a website vs in whatsapp for 30 days. the results werent even close.",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "pushed_at": "2026-05-22",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "score": 7
+    },
+    {
+      "url": "https://www.openrig.dev/",
+      "pushed_at": "2026-05-22",
+      "title": "Show HN: OpenRig – a control plane for multi-agent coding topologies",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkpz2y/beellama_v020_major_dflash_update_single_rtx_3090/",
+      "pushed_at": "2026-05-22",
+      "title": "BeeLlama v0.2.0 – major DFlash update. Single RTX 3090: Qwen 3.6 27B up to 164 tps (4.40x), Gemma 4 31B up to 177.8 tps (4.93x). Prompt processing speed near baseline.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tknjcx/byteshape_qwen3635ba3b_30_faster_than_unsloth_iq/",
+      "pushed_at": "2026-05-22",
+      "title": "ByteShape Qwen3.6-35B-A3B: 30% faster than Unsloth IQ on 6GB VRAM laptop",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkunbg/i_finetuned_cohere_transcribe_to_support/",
+      "pushed_at": "2026-05-22",
+      "title": "I fine-tuned Cohere Transcribe to support diarization and timestamps",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkxnuc/qwen3635ba3b_q4_262k_context_on_8gb_3070_ti_30tps/",
+      "pushed_at": "2026-05-22",
+      "title": "Qwen3.6-35B-A3B Q4 262k context on 8GB 3070 Ti = +30tps",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkmgwj/qwen27biq4_ks_for_ik_llamacpp_especially_for/",
+      "pushed_at": "2026-05-22",
+      "title": "Qwen-27B-IQ4_KS for ik_llama.cpp, especially for NVIDIA with 16GB VRAM",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkulbk/scrambling_to_max_strixhalo_nvlink_dual_egpu_3090/",
+      "pushed_at": "2026-05-22",
+      "title": "Scrambling to max StrixHalo (+NVLink dual eGPU 3090 mod)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkih6y/llamacpp_asymmetric_kv_q8q4_cache_current_caveats/",
+      "pushed_at": "2026-05-22",
+      "title": "[llama.cpp] Asymmetric KV q8/q4 cache: current caveats and discussion in GGML repo",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "pushed_at": "2026-05-22",
+      "title": "Lum1104/Understand-Anything",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "pushed_at": "2026-05-22",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tktdpd/i_built_a_game_release_tracker_because_i_never/",
+      "pushed_at": "2026-05-22",
+      "title": "I built a game release tracker because I never know when anything's coming out",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkyoyt/i_tried_to_fully_automate_my_side_projects_dev/",
+      "pushed_at": "2026-05-22",
+      "title": "I tried to fully automate my side project's dev workflow with AI agents. It cost me 2 weeks. Here's what I learned.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkbz53/got_my_first_paying_customer_10_days_after/",
+      "pushed_at": "2026-05-22",
+      "title": "Got my first paying customer 10 days after launching my job board",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tki0rq/just_a_small_useful_way_to_use_ai_to_save_you/",
+      "pushed_at": "2026-05-22",
+      "title": "Just a small, useful way to use AI to save you hours of research and decision making",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/ppserapiao/mneme",
+      "pushed_at": "2026-05-22",
+      "title": "Show HN: Mneme – Open-protocol AI memory that lives on your device",
+      "score": 6
+    },
+    {
+      "url": "https://trydatapoint.com",
+      "pushed_at": "2026-05-22",
+      "title": "Show HN: Datapoint AI – Make Something People Want, but Ask Them First",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/AINYC/canonry",
+      "pushed_at": "2026-05-22",
+      "title": "Show HN: Canonry tracks how AI cites you – agent-first, open source",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tktxr0/cant_believe_i_got_it_working_dual_gpu_48gb_vram/",
+      "pushed_at": "2026-05-22",
+      "title": "Can't believe I got it working! Dual GPU - 48gb VRAM llama-cpp server - R7900 + 7800XT",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkhngq/new_supra50m_released/",
+      "pushed_at": "2026-05-22",
+      "title": "[NEW] Supra-50M Released!",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/dotnet/skills",
+      "pushed_at": "2026-05-22",
+      "title": "dotnet/skills",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/multica-ai/multica",
+      "pushed_at": "2026-05-22",
+      "title": "multica-ai/multica",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "pushed_at": "2026-05-22",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+      "pushed_at": "2026-05-22",
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3816943010071427?f=rss",
+      "pushed_at": "2026-05-22",
+      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3820298219425924?f=rss",
+      "pushed_at": "2026-05-22",
+      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1666706?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-22",
+      "title": "Codex 这波大更新后，Mac 的含金量再次提升",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1666659?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-22",
+      "title": "早报｜雷军：手机越来越贵，建议现在就换/特斯拉监督版FSD将入华/努比亚总裁：豆包手机真可以订餐厅",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkw5uv/digital_body_measurements_to_avoid_size_guessing/",
+      "pushed_at": "2026-05-22",
+      "title": "Digital Body Measurements to Avoid Size Guessing",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkgf9d/are_we_witnessing_a_solo_developer_renaissance_in/",
+      "pushed_at": "2026-05-22",
+      "title": "Are we witnessing a solo developer renaissance in 2026?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkqghh/i_built_an_app_that_converts_any_text_into/",
+      "pushed_at": "2026-05-22",
+      "title": "I built an app that converts any text into high-quality audio. It works with PDFs, blog posts, Substack and Medium links, and even photos of text.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkwhzm/i_built_a_mood_journal_ios_app_that_turns_how_you/",
+      "pushed_at": "2026-05-22",
+      "title": "I built a mood journal iOS app that turns how you feel into aura color sphere and AI generated art, would love feedback.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkjigu/i_spent_3_months_overthinking_my_first_digital/",
+      "pushed_at": "2026-05-22",
+      "title": "I spent 3 months overthinking my first digital product. Then I just published it. Here's what happened.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tkva3z/my_side_project_helps_remove_the_ai_slop_from/",
+      "pushed_at": "2026-05-22",
+      "title": "My side project helps remove the AI slop from this subreddit :)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tklau9/free_paid_users_wont_reply_emails_its_either_my/",
+      "pushed_at": "2026-05-22",
+      "title": "free & paid users won't reply emails. it's either my approach, it's them, or a combination of both.",
+      "score": 5
+    },
+    {
+      "url": "https://www.therundown.ai/p/exclusive-interview-sundar-pichai-on-ai-flip-phone-moment",
+      "pushed_at": "2026-05-22",
+      "title": "Exclusive interview: Sundar Pichai on AI's flip phone moment",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "pushed_at": "2026-05-22",
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Anioko/microcodegen",
+      "pushed_at": "2026-05-22",
+      "title": "Show HN: Microcodegen.py – PRD → FastAPI app, one file, no LLM calls",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/allenwu-blip/mcpaudit",
+      "pushed_at": "2026-05-22",
+      "title": "Show HN: Mcpaudit – static security scanner for MCP servers",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkw5ri/nvidia_removes_gaming_revenue_category_from/",
+      "pushed_at": "2026-05-22",
+      "title": "NVIDIA Removes Gaming Revenue Category From Financial Reports",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tk4gyy/when_your_llm_treats_data_center_gpus_like_an/",
+      "pushed_at": "2026-05-22",
+      "title": "When your LLM treats data center GPUs like an optional DLC",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkt6o1/coda_rewriting_transformer_blocks_as_gemmepilogue/",
+      "pushed_at": "2026-05-22",
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkqqsf/vector_policy_optimization_training_for_diversity/",
+      "pushed_at": "2026-05-22",
+      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkbupt/new_release_of_rocm_based_mlx_llm_engine/",
+      "pushed_at": "2026-05-22",
+      "title": "New Release of ROCm based MLX LLM Engine - lemon-mlx-engine",
+      "score": 5
+    },
+    {
+      "url": "https://www.qbitai.com/2026/05/422455.html",
+      "pushed_at": "2026-05-22",
+      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3820318177841541?f=rss",
+      "pushed_at": "2026-05-22",
+      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3820220616495492?f=rss",
+      "pushed_at": "2026-05-22",
+      "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3820150778531972?f=rss",
+      "pushed_at": "2026-05-22",
+      "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3820143885455751?f=rss",
+      "pushed_at": "2026-05-22",
+      "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1666783?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-22",
+      "title": "安克重塑安克｜安克消噪耳机体验",
+      "score": 5
     }
   ]
 }
