@@ -6731,6 +6731,12 @@
       "pushed_at": "2026-05-22",
       "title": "安克重塑安克｜安克消噪耳机体验",
       "score": 5
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "pushed_at": "2026-05-23",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "score": 5
     }
   ]
 }
